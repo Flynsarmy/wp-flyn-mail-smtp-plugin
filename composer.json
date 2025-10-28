@@ -1,5 +1,5 @@
 {
-    "name": "flynsarmy/wp-flyn-mail-smtp-plugin",
+    "name": "flynsarmy/flyn-mail-smtp",
     "description": "Reconfigures the wp_mail() function to use SMTP instead of the default mail.",
     "authors": [
         {
